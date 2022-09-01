@@ -3,7 +3,10 @@ layout: default
 ---
 
 # Studying Gaussian Processes for propagating uncertainty
-*February 20, 2021*
+*February 20, 2021* \
+*Keywords: machine learning, control theory*
+
+![](../assets/img/gp/gp_example.png)
 
 Gaussian Processes (GPs) are a powerful data-driven tool for approximating unknown or expensive to evaluate functions. GPs are specifically useful for time-series prediction which is for example used in Control to model dynamical systems. GPs ability to express the uncertainty of the relative prediction renders them especially useful here.
 

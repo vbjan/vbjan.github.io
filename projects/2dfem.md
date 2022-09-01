@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Numerical Approximation of the Stationary Reaction Diffusion Equation on L-shape Domain
+*Keywords: computational science*
 
 This is a part of my final project of the course Computational Methods for Engineering Applications that I finished in my fifth semester. The goal of the project was to solve the stationary reaction diffusion equation on a L-shape domain, which is why a FEM-approach instead of a finite difference approach was chosen.
 

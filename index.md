@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Welcome to my Website!
+# About Me
 
 As a Data Science master student at ETH Zurich with a background in Mechanical Engineering I completed a range of courses in the fields of Mathematics, Engineering and Computer Science. I was additionally responsible for teaching the subjects Linear Algebra I & II, Deformable Body Mechanics and CAD & Technical Drawing both online and in person as a Teaching Assistant at ETH.
 

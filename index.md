@@ -12,6 +12,11 @@ This website is a presentation/collection of my projects that I engage in to fur
 ___
 
 # Projects
+**Autograd:  [[Link]](./projects/autograd.html):**
+Automatic differentiation and gradient descent from scratch for arbitrary optimization problems.
+
+___
+**Bac
 **Tree Branch Detection [[Link]](./projects/treebranchdetec.html):**
 Depth estimation of leafless branch structure given RGB-D image of tree using CNN.
 

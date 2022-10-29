@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Studying Gaussian Processes for propagating uncertainty
+# Studying Gaussian Processes for Propagating Uncertainty
 *February 20, 2021* \
 *Keywords: machine learning, control theory*
 
@@ -16,6 +16,7 @@ GPs come with the downside that their computational effort does not scale well w
 
 [[GITHUB REPO]](https://github.com/vbjan/SoM_report_GaussianProcesses)
 
-___
 
-[< back](../index.html)
+---
+
+[< back ](../index.html)

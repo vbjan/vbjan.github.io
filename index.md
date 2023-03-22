@@ -3,9 +3,9 @@ layout: default
 ---
 # About Me
 
-Hi, I am a [Data Science Masters student at ETH Zurich](https://inf.ethz.ch/studies/master/master-ds.html) and particularly interested in the field of artificial intelligence. To that end, I am also very intrigued by the more vague and philosophical questions of what sets human intelligence as a very general kind apart.
+Hi, I am a [Data Science Masters student at ETH Zurich](https://inf.ethz.ch/studies/master/master-ds.html) currently writing my Master's thesis at Harvard SEAS. I am particularly interested in the field of artificial intelligence. To that end, I am also very intrigued by the more vague and philosophical questions of what sets human intelligence as a very general kind apart.
 
-During my Bachelors in Mechanical Engineering at ETH, I discovered my passion for Applied Mathematics and Computer Science, which I find Data Science to be a beautiful combination of.
+During my Bachelors in Mechanical Engineering at ETH, I discovered my passion for Applied Mathematics and Computer Science, which I find AI and Data Science to be a beautiful combination of.
 
 This website is a presentation/collection of my projects that I engage in to further my education in Mathematics and Computer Science. It furthermore acts as a project itself and as a place to collect resources for my students.
 

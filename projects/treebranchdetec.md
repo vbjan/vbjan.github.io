@@ -5,7 +5,7 @@ layout: default
 # Tree Branch Detection
 *Keywords: computer vision, deep learning, domain adaption*
 
-In this project, as part of the *Data Science Lab* course at ETH, we were challenged to predict a leafless depth mask of a tree that is observed with a RGB-D camera. So to break it down:
+During my role as a research assistant at the ETH Environmental Robotics Lab, we were challenged to predict a leafless depth mask of a tree that is observed with a RGB-D camera. So to break it down:
 
 **Input:**
 - RGB image of tree
@@ -24,8 +24,6 @@ During this project we experimented with a number of models ranging from generat
 By taking a video with a RGB-D camera, performing frame wise predictions and turning them in to a gif, we can visualize the interpretation the model has of a given tree. The input to the model is on the left side, while the prediction is on the right.
 
 ![Alt Text](../assets/img/treebranchdetec/pred_02_comparison.gif)
-
-*Full report will be added later*
 
 ___
 

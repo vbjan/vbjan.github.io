@@ -3,11 +3,11 @@ layout: default
 ---
 # About Me
 
-Hi, I am a [Data Science Masters student at ETH Zurich](https://inf.ethz.ch/studies/master/master-ds.html) currently writing my Master's thesis at Harvard SEAS. I am particularly interested in the field of artificial intelligence. To that end, I am also very intrigued by the more vague and philosophical questions of what sets human intelligence as a very general kind apart.
+Hi, I am a [Data Science Masters student at ETH Zurich](https://inf.ethz.ch/studies/master/master-ds.html) and am currently writing my Master's thesis at Harvard SEAS. I am particularly interested in the field of artificial intelligence. To that end, I am also very intrigued by the more vague and philosophical questions of what sets human intelligence as a very general kind apart.
 
-During my Bachelors in Mechanical Engineering at ETH, I discovered my passion for Applied Mathematics and Computer Science, which I find AI and Data Science to be a beautiful combination of.
+During my Bachelor's in Mechanical Engineering at ETH, I discovered my passion for applied mathematics and computer science, which I find AI and data science to be a beautiful combination of.
 
-This website is a presentation/collection of my projects that I engage in to further my education in Mathematics and Computer Science. It furthermore acts as a project itself and as a place to collect resources for my students.
+This website is a presentation/collection of my projects that I engage in to further my education in Mathematics and computer science. It further acts as a project itself and as a place to collect resources for my students.
 
 ___
 
@@ -21,7 +21,7 @@ Depth estimation of leafless branch structure given RGB-D image of tree using CN
 
 ___
 **Bachelor Thesis on Neural ODEs [[Link]](./projects/neuralode.html):**
-Learning the underlying dynamics of chaotic systems with and without prior knowledge of the dynamics.
+Depth estimation of leafless branch structure given an RGB-D image of a tree using CNN.
 
 ___
 **Gaussian Processes for Control [[Link]](./projects/gp.html):**
@@ -29,7 +29,7 @@ Studying Gaussian Processes and writing a comprehensive report on methods of pro
 
 ___
 **Webscraping Bot [[Link]](./projects/webscraping.html):**
-Automation gym reservations.
+Automation of gym reservations.
 
 ___
 **2D-FEM on L-shape Domain [[Link]](./projects/2dfem.html):**

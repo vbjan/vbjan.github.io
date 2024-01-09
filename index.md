@@ -3,11 +3,20 @@ layout: default
 ---
 # About Me
 
-Hi, I am a [Data Science Masters student at ETH Zurich](https://inf.ethz.ch/studies/master/master-ds.html) and am currently writing my Master's thesis at Harvard SEAS. I am particularly interested in the field of artificial intelligence. To that end, I am also very intrigued by the more vague and philosophical questions of what sets human intelligence as a very general kind apart.
+Hi I'm Jan. I believe in the beauty 🌟 and power 💪 of mathematics. By teaming up with like-minded people 👥, I love to translate math into code 💻 to find intelligent solutions 💡 for real world problems.
 
-During my Bachelor's in Mechanical Engineering at ETH, I discovered my passion for applied mathematics and computer science, which I find AI and data science to be a beautiful combination of.
+This mission led me to study Data Science for my Master's at ETH and Harvard, which I finished at the end of 2023.
 
-This website is a presentation/collection of my projects that I engage in to further my education in Mathematics and computer science. It further acts as a project itself and as a place to collect resources for my students.
+During two research projects at ETH and Harvard, I designed AI systems to tackle unsolved problems in computer vision and scientific computing:
+
+- 🌊 Throughout my 9-month full-time research stay at Harvard, I tackled the problem of data-driven turbulence models in computational fluid dynamics. To that end, I developed a new method to learn such a turbulence model using reinforcement learning. The paper is to be published in ICML 2024.
+
+- 🌳 During my 3-month research project at ETH, I worked on depth estimation solutions to infer occluded tree branches from RGB-D imagery. The resulting paper is accepted in IEEE RA-L.
+
+Currently, I am actively seeking roles as a Machine Learning Engineer or Data Scientist, where I can apply my technical expertise in ML to develop innovative solutions alongside a team of similarly passionate colleagues.
+
+If this text resonates with you, feel free to reach out. I love meeting new people. You can reach me at
+jan-philipp[at]bassewitz[dot]biz.
 
 ___
 

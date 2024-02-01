@@ -9,7 +9,7 @@ This mission led me to study Data Science for my Master's at ETH and Harvard, wh
 
 During two research projects at ETH and Harvard, I designed AI systems to tackle unsolved problems in computer vision and scientific computing:
 
-- 🌊 Throughout my 9-month full-time research stay at Harvard, I tackled the problem of data-driven turbulence models in computational fluid dynamics. To that end, I developed a new method to learn such a turbulence model using reinforcement learning. The paper is to be published in ICML 2024.
+- 🌊 Throughout my 9-month full-time research stay at Harvard, I tackled the problem of data-driven turbulence models in computational fluid dynamics. To that end, I developed a new method to learn such a turbulence model using reinforcement learning.
 
 - 🌳 During my 3-month research project at ETH, I worked on depth estimation solutions to infer occluded tree branches from RGB-D imagery. The resulting paper is accepted in IEEE RA-L.
 

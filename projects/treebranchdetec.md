@@ -14,6 +14,8 @@ During my role as a research assistant at the ETH Environmental Robotics Lab, we
 **Target:**
 - Depth mask of the same tree as if it had no leaves.
 
+You can find the resulting publication in IEEE RA-L here [[Link]](https://ieeexplore.ieee.org/document/10403997).
+
 As it would be infeasible to create a dataset with such input and target pairs in the real world, we opted to create it in simulation, to be able to train a supervised model. The images below show an example pair from the simulated dataset.
 ![](../assets/img/treebranchdetec/sample1.jpg.png)
 

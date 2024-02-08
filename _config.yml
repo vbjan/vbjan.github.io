@@ -26,8 +26,8 @@ sidebar:
     icon: <i class="fa-solid fa-pen"></i>
     link: https://vbjan.github.io/teaching.html
   - name: Google Scholar
-      icon: <i class='fas fa-graduation-cap'></i> # Assuming you're using FontAwesome for icons
-      link: https://scholar.google.de/citations?user=GTk71FcAAAAJ
+    icon: <i class='fas fa-graduation-cap'></i> # Assuming you're using FontAwesome for icons
+    link: https://scholar.google.de/citations?user=GTk71FcAAAAJ
 
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749

@@ -19,6 +19,10 @@ If this text resonates with you, feel free to reach out. I love meeting new peop
 jan-philipp[at]bassewitz[dot]biz.
 
 ___
+# Publications
+You can find an up-to-date collection of my publications on [Google Scholar](https://scholar.google.de/citations?user=GTk71FcAAAAJ).
+
+___
 
 # Projects
 **Autograd:  [[Link]](./projects/autograd.html):**

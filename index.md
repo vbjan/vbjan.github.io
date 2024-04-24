@@ -13,7 +13,7 @@ During two research projects at ETH and Harvard, I designed AI systems to tackle
 
 - 🌳 During my 3-month research project at ETH, I worked on depth estimation solutions to infer occluded tree branches from RGB-D imagery. The resulting paper is accepted in IEEE RA-L [[Link]](https://ieeexplore.ieee.org/document/10403997).
 
-Currently, I am actively seeking roles as a Machine Learning Engineer or Data Scientist, where I can apply my technical expertise in ML to develop innovative solutions alongside a team of similarly passionate colleagues.
+Currently, I am actively seeking a PhD position and am particularly excited about representation learning and scientific ML.
 
 If this text resonates with you, feel free to reach out. I love meeting new people. You can reach me at
 jan-philipp[at]bassewitz[dot]biz.

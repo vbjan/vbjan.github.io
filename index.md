@@ -7,7 +7,7 @@ Hi I'm Jan. I believe in the beauty 🌟 and power 💪 of mathematics. By teami
 
 This mission led me to study Data Science for my Master's at ETH and Harvard, which I finished at the end of 2023.
 
-During two research projects at ETH and Harvard, I designed AI systems to tackle unsolved problems in computer vision and scientific computing:
+During two research projects at these institutions, I designed AI systems to tackle unsolved problems in computer vision and scientific computing:
 
 - 🌊 Throughout my 9-month full-time research stay at Harvard, I tackled the problem of data-driven turbulence models in computational fluid dynamics. To that end, I developed a new method to learn such a turbulence model using reinforcement learning. The resulting paper is currently under review. You can find the preprint here [[Link]](https://arxiv.org/abs/2402.00972).
 
@@ -16,7 +16,7 @@ During two research projects at ETH and Harvard, I designed AI systems to tackle
 Currently, I am actively seeking a PhD position and am particularly excited about representation learning and scientific ML.
 
 If this text resonates with you, feel free to reach out. I love meeting new people. You can reach me at
-jan-philipp[at]bassewitz[dot]biz.
+vbjan[at]ethz[dot]ch.
 
 ___
 # Publications

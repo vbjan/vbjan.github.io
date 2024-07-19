@@ -8,8 +8,6 @@ body {
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--clr-text);
   font-weight:400;
-  text-align: justify;
-  text-justify: inter-word;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -184,6 +182,8 @@ section {
   width: 620px;
   float:right;
   padding-bottom:30px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 small {

@@ -3,11 +3,11 @@ layout: default
 ---
 # About Me
 
-Hi I'm Jan. I believe in the beauty 🌟 and power 💪 of mathematics. By teaming up with like-minded people 👥, I love to translate math into code 💻 to find intelligent solutions 💡 for real world problems.
+Hi I'm Jan. I believe in the beauty 🌟 and power 💪 of mathematics. By teaming up with like-minded people 👥, I love to translate math into code 💻 to find intelligent solutions for real world problems.
 
 This mission led me to study Data Science for my Master's at ETH and Harvard, which I finished at the end of 2023.
 
-During two research projects at these institutions, I designed AI systems to tackle unsolved problems in computer vision and scientific computing:
+During two research projects at these institutions, I worked on problems in computer vision and scientific computing:
 
 - 🌊 Throughout my 9-month full-time research stay with [Petros Koumoutsakos](https://seas.harvard.edu/person/petros-koumoutsakos) at Harvard, I tackled the problem of data-driven turbulence models in computational fluid dynamics. To that end, I developed a new method to learn such a turbulence model using reinforcement learning. The resulting paper is currently under review. You can find the preprint here [[Link]](https://arxiv.org/abs/2402.00972).
 

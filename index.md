@@ -5,18 +5,15 @@ layout: default
 
 Hi I'm Jan. I believe in the beauty 🌟 and power 💪 of mathematics. By teaming up with like-minded people 👥, I love to translate math into code 💻 to find intelligent solutions for real world problems.
 
-This mission led me to study Data Science for my Master's at ETH and Harvard, which I finished at the end of 2023.
+This mission led me to study Data Science for my Master's at ETH.
 
-During two research projects at these institutions, I worked on problems in computer vision and scientific computing:
+During research projects at ETH and Harvard, I worked on problems in computer vision and scientific computing:
 
-- 🌊 Throughout my 9-month full-time research stay with [Petros Koumoutsakos](https://seas.harvard.edu/person/petros-koumoutsakos) at Harvard, I tackled the problem of data-driven turbulence models in computational fluid dynamics. To that end, I developed a new method to learn such a turbulence model using reinforcement learning. The resulting paper is currently under review. You can find the preprint here [[Link]](https://arxiv.org/abs/2402.00972).
+- 🌊 Throughout my 9-month full-time research stay with Petros Koumoutsakos at Harvard, I tackled the problem of data-driven turbulence models in computational fluid dynamics. To that end, I developed a new method to learn such a turbulence model using reinforcement learning. The resulting paper was published at the ICML 2024 AI4Science workshop.
 
-- 🌳 During my 3-month research project at [Stefano Mintchev](https://usys.ethz.ch/personen/profil.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html)'s lab at ETH, I worked on depth estimation solutions to infer occluded tree branches from RGB-D imagery. The resulting paper is accepted in IEEE RA-L [[Link]](https://ieeexplore.ieee.org/document/10403997).
+- 🌳 During my 3-month research project at Stefano Mintchev's lab at ETH, I worked on depth estimation solutions to infer occluded tree branches from RGB-D imagery. The resulting paper was published in IEEE RA-L.
 
-Currently, I am actively seeking a PhD position and am particularly excited about representation learning and scientific ML.
-
-If this text resonates with you, feel free to reach out. I love meeting new people. You can reach me at
-*vbjan[at]ethz[dot]ch*.
+If this text resonates with you, feel free to reach out. I love meeting new people. You can reach me at vbjan[at]ethz[dot]ch.
 
 ___
 # Publications

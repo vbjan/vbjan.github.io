@@ -31,7 +31,7 @@ Depth estimation of leafless branch structure given RGB-D image of tree using CN
 
 ___
 **Bachelor Thesis on Neural ODEs [[Link]](./projects/neuralode.html):**
-Depth estimation of leafless branch structure given an RGB-D image of a tree using CNN.
+Evaluated the performance on partially and fully observed systems.
 
 ___
 **Gaussian Processes for Control [[Link]](./projects/gp.html):**

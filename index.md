@@ -5,11 +5,11 @@ layout: default
 
 Hi I'm Jan. I believe in the beauty 🌟 and power 💪 of mathematics. By teaming up with like-minded people 👥, I love to translate math into code 💻 to find intelligent solutions for real world problems.
 
-This mission led me to study Data Science for my Master's at ETH.
+This mission led me to pursue my PhD at IST Austria, where I am supervised by Francesco Locatello and work on representation learning for dynamical systems. I am currently focusing on ODE discovery and single-cell dynamics. Before that, I studied Data Science for my Master's at ETH.
 
-During research projects at ETH and Harvard, I worked on problems in computer vision and scientific computing:
+During two prior research projects at ETH and Harvard, I worked on problems in computer vision and scientific computing:
 
-- 🌊 Throughout my 9-month full-time research stay with Petros Koumoutsakos at Harvard, I tackled the problem of data-driven turbulence models in computational fluid dynamics. To that end, I developed a new method to learn such a turbulence model using reinforcement learning. The resulting paper was published at the ICML 2024 AI4Science workshop.
+- 🌊 Throughout my 9-month full-time research stay with Petros Koumoutsakos at Harvard, I tackled the problem of data-driven turbulence models in computational fluid dynamics. To that end, I developed a new method to learn such a turbulence model using reinforcement learning. The resulting paper was published at CPAL 2025 (Oral).
 
 - 🌳 During my 3-month research project at Stefano Mintchev's lab at ETH, I worked on depth estimation solutions to infer occluded tree branches from RGB-D imagery. The resulting paper was published in IEEE RA-L.
 

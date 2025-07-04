@@ -13,7 +13,7 @@ During two prior research projects at ETH and Harvard, I worked on problems in c
 
 - 🌳 During my 3-month research project at Stefano Mintchev's lab at ETH, I worked on depth estimation solutions to infer occluded tree branches from RGB-D imagery. The resulting paper was published in IEEE RA-L.
 
-If this text resonates with you, feel free to reach out. I love meeting new people. You can reach me at vbjan[at]ethz[dot]ch.
+If this text resonates with you, feel free to reach out. I love meeting new people. You can reach me at jbassewitz[at]ist[dot]ac[dot]at.
 
 ___
 # Publications
